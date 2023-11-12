@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @PepijnWulteputte
 - 👀 I’m interested in Business
-- 🌱 I’m currently learning Database systems
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Operations Management
+ - 22 
 
 <!---
 PepijnWulteputte/PepijnWulteputte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
